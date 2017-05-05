@@ -66,6 +66,7 @@ bool salir=false;
             cout<<endl;
          }
 	//---Imprimir---
+	
 	//----Voltear----
 	int element=0,limite=dimension-1;
         int matrix2[dimension][dimension];
@@ -77,6 +78,7 @@ bool salir=false;
 	limite--;
         }
 	cout<<endl;
+	
 	//---Imprimir---
         for(int x=0;x<dimension;x++){
           for(int y=0;y<dimension;y++){
