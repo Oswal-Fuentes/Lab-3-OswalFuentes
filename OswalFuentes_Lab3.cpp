@@ -77,8 +77,7 @@ bool salir=false;
           }
 	limite--;
         }
-	cout<<endl;
-	
+	cout<<endl;	
 	//---Imprimir---
         for(int x=0;x<dimension;x++){
           for(int y=0;y<dimension;y++){
@@ -87,7 +86,6 @@ bool salir=false;
               cout<<endl;
            }
           //---Imprimir---
-
 	break;
       }//Fin ejercicio 2
       case 3:{
