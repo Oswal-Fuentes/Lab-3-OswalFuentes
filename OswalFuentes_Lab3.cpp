@@ -96,6 +96,7 @@ bool salir=false;
   return 0;
 }
 
+
 int menu(){
   int opcion;
   bool valido=false;
