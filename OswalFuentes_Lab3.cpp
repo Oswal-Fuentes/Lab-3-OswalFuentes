@@ -8,6 +8,7 @@ using namespace std;
 
 //Funcion Menu
 int menu();
+
 //Funcion Suma digitos
 int suma_digitos(int);
 
@@ -95,7 +96,6 @@ bool salir=false;
   }
   return 0;
 }
-
 
 int menu(){
   int opcion;
